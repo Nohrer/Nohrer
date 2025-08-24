@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naoufal GUENDOUZ</h1>
-<h3 align="center">Full stack developer & Cybersecurity engineering student from Morocco</h3>
+<h3 align="center">Cybersecurity engineering student from Morocco</h3>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nohrer&label=Profile%20views&color=0e75b6&style=flat" alt="nohrer" /> </p>
 
